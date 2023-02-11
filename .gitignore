@@ -1,3 +1,7 @@
+# Temporary files I used to support coding but not necessary to be shown in Github
+test.ipynb
+*:Zone.Identifier
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
