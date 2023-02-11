@@ -1,3 +1,7 @@
+# This script will have a keras model to classify a flower image.
+# To use this script, the flower image file path and CNN model file path 
+# need to be specified in command line argument.
+
 # Hide some warning messages from Tensorflow GPU if we run with CPU
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
